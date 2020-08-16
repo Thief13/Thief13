@@ -1,14 +1,11 @@
-### Rob McGough / Front End Dev - aka [Thief13][website]
+### Rob McGough / Front End Dev - aka [Thief13][website] 👋
 
 ## I'm an Army Brat, Air Force Vet, and Army Contractor
 
-- I’m currently working on a Security+ certification.
-- I’m currently learning BEM & Cube CSS. 
-- 2020 Goals: Start developing more personal projects.
-- Fun fact: I am a huge Chicago Bears fan. Bear Down.
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-thief13.vercel.app/api/spotify-playing" alt="Thief13 Spotify Playing" width="350" />](https://open.spotify.com/user/l1dxpydb40b50x5i0kwfdlp9l)
+- 🔭 I’m currently working on a Security+ certification 🤣!
+- 🌱 I’m currently learning BEM & Cube CSS. 
+- 🥅 2020 Goals: Start developing more personal projects.
+- ⚡ Fun fact: I am a huge Chicago Bears fan. Bear Down.
 
 ### Connect with me:
 
@@ -33,18 +30,9 @@
 <br />
 <br />
 
-<details>
-  <summary>Github Stats</summary>
+### GitHub Stats
 
-  <img align="left" alt="Thief13's Github Stats" src="https://github-readme-stats.thief13.vercel.app/api?username=Thief13&show_icons=true&hide_border=true" />
-
-</details>
-
-  <summary>Top Languages</summary>
-
-  <img align="left" alt="Thief13's Github Stats" src="https://github-top-languages.thief13.vercel.app/api?username=Thief13&show_icons=true&hide_border=true" />
-
-</details>
+[![Thief13's github stats](https://github-readme-stats.vercel.app/api?username=thief13)](https://github.com/thief13/github-readme-stats)
 
 [website]: https://onethree.dev
 [twitter]: https://twitter.com/rob13mcg
