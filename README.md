@@ -2,7 +2,7 @@
 
 ## I'm an Army Brat, Air Force Vet, and Army Contractor
 
-- 🔭 I’m currently working on a Security+ certification 🤣!
+- 🔭 I recently acquired Security+ certification 🤣!
 - 🌱 I’m currently learning BEM & Cube CSS. 
 - 🥅 2020 Goals: Start developing more personal projects.
 - ⚡ Fun fact: I am a huge Chicago Bears fan. Bear Down.
